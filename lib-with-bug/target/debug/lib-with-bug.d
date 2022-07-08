@@ -1,0 +1,1 @@
+/Users/teoliver/Documents/Code/rust/rust-analyzer-use-lib-bug-report/lib-with-bug/target/debug/lib-with-bug: /Users/teoliver/Documents/Code/rust/rust-analyzer-use-lib-bug-report/lib-with-bug/src/main.rs /Users/teoliver/Documents/Code/rust/rust-analyzer-use-lib-bug-report/src/lib.rs
